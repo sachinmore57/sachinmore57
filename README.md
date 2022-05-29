@@ -7,10 +7,13 @@
 ### Project:
 - [Exploratory Data Analysis(EDA) of Stocks Price and Trading Strategy Performance.](https://jovian.ai/sachinmore57/exploratory-data-analysis-of-trading-strategy-and-stocks-price)
 - [Web Scraping Stock Price Data from Zerodha Kite Trading Software.](https://jovian.ai/sachinmore57/scraping-stock-price-data-from-zerodha-kite-web-software)
-- 
--  **Learning :** Data-Science| Machine Learning| Deep Learning| Data Analysis| Quantitative Trading:	
--  **Languages :** Python, SQL:
--  **Hobbies :** Articles & Music :headphones: 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Store Sales - Time Series Forecasting (Ongoing)
+
+
+### Technical Skills:
+-  Python, Numpy, Pandas, Data Analysis, SQL, Matplotlib, Seaborn, Excel, Backtesting, Quantitative Trading.
+
+### I am open to work in Data Science domain as a Data Analyst, Data Scientist, Data Engineer.
+------------------------------------------------------------------------------------------------------------------------------
 
 
